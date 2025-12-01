@@ -57,7 +57,7 @@
 <h1 id="architecture" style="color:#1E90FF;">🟦 2. Architecture</h1>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1XlpoRBJgkizV6UQa85XUZTS6OWToR1A1" width="700"/>
+  <img src="https://drive.google.com/file/d/14lPSQVdmM86LqluwLzWhMVQCzXAX9Tg_/view?usp=sharing" width="700"/>
 </p>
 
 <hr/>
