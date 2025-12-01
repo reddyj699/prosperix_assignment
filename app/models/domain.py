@@ -23,10 +23,12 @@ class VendorAData(BaseModel):
     cost: float
     qty: int
     availability: str # "YES", "NO"
+    ts:str
 
 class VendorBData(BaseModel):
     price_cents: int
     stock: int
+    ts:str
 
 class VendorCData(BaseModel):
     pricing: float
